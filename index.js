@@ -13,7 +13,7 @@ function superBowlWin(arr){
       return undefined;
     }
 
-    
+
   })
-  
+
 }
