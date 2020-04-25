@@ -4,7 +4,8 @@ function testFunc() {
   return "hi"
 }
 
-function superBowlWin(arr){
+function superbowlWin(){
+  let arr = testVar;
   arr.find(element =>{
     if(element.result === "W"){
       return element.year;
